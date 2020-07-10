@@ -1,0 +1,38 @@
+{
+  "city": [
+    {
+      "City_ID": "CN101010100",
+      "City_EN": "beijing",
+      "City_CN": "北京",
+      "Country_code": "CN",
+      "Country_EN": "China",
+      "Country_CN": "中国",
+      "Province_EN": "beijing",
+      "Province_CN": "北京",
+      "Admin_ district_EN": "beijing",
+      "Admin_ district_CN": "北京",
+      "Latitude": "39.904987",
+      "Longitude": "116.40529",
+      "AD_code": "110,100,110,000,100,000"
+    },
+    {
+      "City_ID": "CN101270101",
+      "City_EN": "chengdu",
+      "City_CN": "成都",
+      "Country_code": "CN",
+      "Country_EN": "China",
+      "Country_CN": "中国",
+      "Province_EN": "sichuan",
+      "Province_CN": "四川",
+      "Admin_ district_EN": "chengdu",
+      "Admin_ district_CN": "成都",
+      "Latitude": "30.659462",
+      "Longitude": "104.065735",
+      "AD_code": "510,101,510,100,510,000"
+    }
+  ],
+  "text": {
+    "1": "如果思考是生存的证明，我真难判断你是不是一具尸体。",
+    "2": "你这杂种肯定是个愚蠢的小学生。"
+  }
+}
