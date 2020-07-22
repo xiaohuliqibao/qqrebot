@@ -106,11 +106,11 @@ cd coolq/app && wget https://github.com/richardchien/coolq-http-api/releases/dow
 
 启用插件在通过ip：9000端口登录CoolQ启用插件，建议跟着官方文档走。
 
-![](.\images\20200722215150.png)
+![image](.\images\20200722215150.png)
 
 配置文件：qq.json
 
-![](.\images\20200722215423.png)
+![image](.\images\20200722215423.png)
 
 ```json
 {
